@@ -6,6 +6,7 @@
     "keywords": [],
     "dependencies": {},
     "development": {},
+    "main": "codebase/message.js",
     "scripts": [
         "codebase/message.js"
     ],
